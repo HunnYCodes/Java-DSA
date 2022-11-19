@@ -1,5 +1,8 @@
+//practice Question-------------------------
+
+
 import java.util.Scanner;
-public class solution {
+public class reverseTheNum {
     public static void  main(String args[]){
         
         System.out.println("plz Enter number:");
@@ -13,7 +16,6 @@ public class solution {
            }
                     
     }
-
         public static boolean isPalindrome(int number){
             int palindrome = number;
             int rev = 0;

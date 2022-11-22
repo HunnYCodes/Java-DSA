@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch bionomial",
+            "request": "launch",
+            "mainClass": "bionomial",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch callByValue",
+            "request": "launch",
+            "mainClass": "callByValue",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch conversion",
+            "request": "launch",
+            "mainClass": "conversion",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch dataType",
+            "request": "launch",
+            "mainClass": "dataType",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch inPut",
+            "request": "launch",
+            "mainClass": "inPut",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaBasic",
+            "request": "launch",
+            "mainClass": "javaBasic",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaMath",
+            "request": "launch",
+            "mainClass": "javaMath",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch magicTable",
+            "request": "launch",
+            "mainClass": "magicTable",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch overloadingDatatype",
+            "request": "launch",
+            "mainClass": "overloadingDatatype",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch overloadingParameter",
+            "request": "launch",
+            "mainClass": "overloadingParameter",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeInRange",
+            "request": "launch",
+            "mainClass": "primeInRange",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseTheNum",
+            "request": "launch",
+            "mainClass": "reverseTheNum",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumInt",
+            "request": "launch",
+            "mainClass": "sumInt",
+            "projectName": "java_2dd58d54"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfDigits",
+            "request": "launch",
+            "mainClass": "sumOfDigits",
+            "projectName": "java_2dd58d54"
+        }
+    ]
+}

@@ -27,7 +27,7 @@ public class reverseTheNum {
 
             if (number ==rev){
             return true;
-            }      Z
+            }      
             return false;
             
         } 

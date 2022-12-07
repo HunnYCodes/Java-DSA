@@ -41,10 +41,25 @@ public class magicTable {
             System.out.println(" ");
         }
     }
+
+    public static void zeroOne_tri(int n){
+        for(int i=1; i<=n; i++){
+            for(int j=1; j<=i; j++){
+                if((i+j)%2==0){
+                    System.out.print("1");
+                }else{
+                    System.out.print("0");
+                }
+            }
+            System.out.println(" ");
+        }
+
+    }
     public static void main(String[] args){
         // inverted_Rotated_Half_Pyramind(4);
         // hollow_Rectangle(4,5);
-        floyd_Tri(5);
+        // floyd_Tri(5);
+        zeroOne_tri(5);
     }
 
     

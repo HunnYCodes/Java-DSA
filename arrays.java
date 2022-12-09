@@ -3,6 +3,7 @@ import java.util.*;
 public class arrays{
     public static void main(String[] args){
         int marks[] = new int[100];
+        System.out.println(marks.length);
         Scanner sc = new Scanner(System.in);
         
         marks[0] = sc.nextByte();

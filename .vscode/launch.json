@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch arrayFunArgument",
+            "request": "launch",
+            "mainClass": "arrayFunArgument",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
             "name": "Launch arrays",
             "request": "launch",
             "mainClass": "arrays",

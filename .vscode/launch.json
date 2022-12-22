@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
+            "name": "Launch largestNumber",
+            "request": "launch",
+            "mainClass": "largestNumber",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayCC",
+            "request": "launch",
+            "mainClass": "ArrayCC",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
             "name": "Launch linearSearch",
             "request": "launch",
             "mainClass": "linearSearch",

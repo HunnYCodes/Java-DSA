@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sumSubArray",
+            "request": "launch",
+            "mainClass": "sumSubArray",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
             "name": "Launch subArray",
             "request": "launch",
             "mainClass": "subArray",

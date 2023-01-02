@@ -4,6 +4,7 @@ public class sumSubArray{
     public static void maxSubarraysum(int numbers[]){
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE;
+        
         for(int i=0; i<numbers.length;i++){
             for(int j=i; j<numbers.length; j++){
                 currSum = 0;

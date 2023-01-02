@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BasicSorting",
+            "request": "launch",
+            "mainClass": "BasicSorting",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateNum",
+            "request": "launch",
+            "mainClass": "duplicateNum",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
+            "name": "Launch trappedWater",
+            "request": "launch",
+            "mainClass": "trappedWater",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
             "name": "Launch sumSubArray",
             "request": "launch",
             "mainClass": "sumSubArray",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaxSubarray",
+            "request": "launch",
+            "mainClass": "MaxSubarray",
+            "projectName": "Java-DSA_71201569"
+        },
+        {
+            "type": "java",
             "name": "Launch BasicSorting",
             "request": "launch",
             "mainClass": "BasicSorting",
